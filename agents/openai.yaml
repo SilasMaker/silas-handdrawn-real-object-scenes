@@ -1,0 +1,6 @@
+interface:
+  display_name: "Silas Hand-Drawn Real-Object Scenes"
+  short_description: "Silas 扁平手绘小人参与真实物件动作的正文图与长卷故事图"
+  default_prompt: "Use $silas-handdrawn-real-object-scenes to turn this Chinese topic or draft into lightweight hand-drawn Silas real-object scenes; use long-scroll mode for a project review, personal path, or product evolution."
+policy:
+  allow_implicit_invocation: true
