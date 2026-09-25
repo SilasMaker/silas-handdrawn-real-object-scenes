@@ -1,0 +1,13 @@
+interface:
+  display_name: Silas-真实摄影 × 黑白手绘线稿 × 剪纸拼贴
+  short_description: 保留照片主体与构图，将真实摄影融入黑白手绘线稿与剪纸拼贴世界
+  default_prompt: 使用 $silas-photo-ink-collage，将我上传的原始照片制作成真实摄影 × 黑白手绘线稿 × 剪纸拼贴作品。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
